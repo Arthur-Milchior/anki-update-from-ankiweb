@@ -1,0 +1,2 @@
+rm fetch_change_online.zip
+zip -R fetch_change_online.zip config.* *py  LICENSE *.md zipping --exclude \*~ \*zip ankiweb
